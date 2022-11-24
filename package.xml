@@ -49,21 +49,18 @@
   <!-- Use doc_depend for packages you need only for building documentation: -->
   <!--   <doc_depend>doxygen</doc_depend> -->
   <buildtool_depend>catkin</buildtool_depend>
-  <build_depend>moveit</build_depend>
   <build_depend>moveit_commander</build_depend>
   <build_depend>pilz_msgs</build_depend>
   <build_depend>pilz_trajectory_generation</build_depend>
   <build_depend>rospy</build_depend>
   <build_depend>tf2_geometry_msgs</build_depend>
   <build_depend>tf2_ros</build_depend>
-  <build_export_depend>moveit</build_export_depend>
   <build_export_depend>moveit_commander</build_export_depend>
   <build_export_depend>pilz_msgs</build_export_depend>
   <build_export_depend>pilz_trajectory_generation</build_export_depend>
   <build_export_depend>rospy</build_export_depend>
   <build_export_depend>tf2_geometry_msgs</build_export_depend>
   <build_export_depend>tf2_ros</build_export_depend>
-  <exec_depend>moveit</exec_depend>
   <exec_depend>moveit_commander</exec_depend>
   <exec_depend>pilz_msgs</exec_depend>
   <exec_depend>pilz_trajectory_generation</exec_depend>
