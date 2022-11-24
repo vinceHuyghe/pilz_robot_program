@@ -1,5 +1,5 @@
 
-# pilz_robot_prog
+# pilz_robot_program
 
 Based on the following [pkg](https://github.com/rivelinrobotics/move_group_sequence) which is in turn based on the [pilz_robot_programming](https://github.com/PilzDE/pilz_industrial_motion/tree/melodic-devel/pilz_robot_programming) but adapted to work with any manipulator with a moveit configuration. Requires the [Pilz Industrial Motion Planner](https://ros-planning.github.io/moveit_tutorials/doc/pilz_industrial_motion_planner/pilz_industrial_motion_planner.html) to be installed.
 
